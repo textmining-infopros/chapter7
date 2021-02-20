@@ -9,6 +9,11 @@ data<- read.csv("https://raw.githubusercontent.com/textmining-utl/chapter7/maste
 #syuzhet package works only on vectors. So, the data was converted to a vector
 vector <- as.vector(t(data))
 
+#Avoid error related to tolower() invalid multibyte string 
+dat[,sapply(dat,is.character)] <- sapply(
+  dat[,sapply(dat,is.character)],
+  iconv,"WINDOWS-1252","UTF-8")
+
 #Sentiment analysis
 emotion.data <- get_nrc_sentiment(vector)
 emotion.data2 <- cbind(data, emotion.data)
