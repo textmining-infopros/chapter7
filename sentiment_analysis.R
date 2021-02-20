@@ -10,8 +10,8 @@ data<- read.csv("https://raw.githubusercontent.com/textmining-utl/chapter7/maste
 vector <- as.vector(t(data))
 
 #Avoid error related to tolower() invalid multibyte string 
-dat[,sapply(dat,is.character)] <- sapply(
-  dat[,sapply(dat,is.character)],
+data[,sapply(data,is.character)] <- sapply(
+  data[,sapply(data,is.character)],
   iconv,"WINDOWS-1252","UTF-8")
 
 #Sentiment analysis
