@@ -6,13 +6,13 @@ library(twitteR)
 #Load dataset
 data<- read.csv("https://raw.githubusercontent.com/textmining-utl/chapter7/master/data.csv")
 
-#syuzhet package works only on vectors. So, the data was converted to a vector
-vector <- as.vector(t(data))
-
 #Avoid error related to tolower() invalid multibyte string 
 data[,sapply(data,is.character)] <- sapply(
   data[,sapply(data,is.character)],
   iconv,"WINDOWS-1252","UTF-8")
+
+#syuzhet package works only on vectors. So, the data was converted to a vector
+vector <- as.vector(t(data))
 
 #Sentiment analysis
 emotion.data <- get_nrc_sentiment(vector)
