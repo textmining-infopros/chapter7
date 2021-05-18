@@ -4,7 +4,7 @@ library(tm)
 library(twitteR)
 
 #Load dataset
-data<- read.csv("https://raw.githubusercontent.com/textmining-utl/chapter7/master/data.csv")
+data<- read.csv("https://raw.githubusercontent.com/textmining-infopros/chapter7/master/data.csv")
 
 #Avoid error related to tolower() invalid multibyte string 
 data[,sapply(data,is.character)] <- sapply(
