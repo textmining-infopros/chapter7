@@ -1,7 +1,7 @@
 # Case Study : Sentiment Analysis of Documents using Two Different Tools
 
 This repository contains a reproducible research compendium for the case study used in the book:
-Manika Lamba and Margam Madhusudhan (2021) Text Mining: An Uncharted Territory for Librarians, Springer.
+Manika Lamba and Margam Madhusudhan (2021) Text Mining for Information Professionals: An Uncharted Territory, SpringerNature.
 
 # How to cite
 Please cite this compendium as: xxxxxxx
@@ -21,7 +21,7 @@ There are several ways to use the compendium’s contents and reproduce
 the analysis:
 
   - **Download the compendium as a zip archive** from this [GitHub
-    repository](https://github.com/textmining-utl/chapter7/archive/master.zip).
+    repository](https://github.com/textmining-infopros/chapter7/archive/master.zip).
     
       - After unpacking the downloaded zip archive, you can explore the
         files on your computer.
@@ -32,11 +32,11 @@ the analysis:
     BinderHub on [mybinder.org](https://mybinder.org/):
     
       - Click
-        **RStudio**: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/textmining-utl/chapter7/master?urlpath=rstudio)
+        **RStudio**: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/textmining-infopros/chapter7/master?urlpath=rstudio)
         to launch an interactive [RStudio](https://rstudio.com/) session in your web browser.
         
        - Click
-        **Jupyter+R**: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/textmining-utl/chapter7/master?filepath=Case_Study_7B.ipynb) to launch an interactive [Jupyter Notebook](https://jupyter.org/) session in your web browser using [R](https://cloud.r-project.org/index.html) kernel. When you execute code within the notebook, the results appear beneath the code.
+        **Jupyter+R**: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/textmining-infopros/chapter7/master?filepath=Case_Study_7B.ipynb) to launch an interactive [Jupyter Notebook](https://jupyter.org/) session in your web browser using [R](https://cloud.r-project.org/index.html) kernel. When you execute code within the notebook, the results appear beneath the code.
 
        - **Limitations of Binder**
           1. The server has limited memory so you cannot load large datasets or run big computations.
