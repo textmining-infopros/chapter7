@@ -9,7 +9,8 @@ Please cite this compendium as: xxxxxxx
 # Contents
 The compendium contains the data, code, and notebook associated with the case study. This case study is further divided into 7A, and 7B. 7A case study used RapidMiner, and 7B case study used R programming language to perform sentiment analysis. It is organized as follows:
 
-  - The `data.csv` file contains the data. The same dataset was used for both the case studies.
+  - The `
+  - The `data.csv` file contains the data for 7B case study.
     - The `negative_book_reviews.csv` file contains the supplementary data associated with 7B case study.
     - The `neutral_book_reviews.csv` file contains the supplementary data associated with 7B case study.
     - The `positive_book_reviews.csv` file contains the supplementary data associated with 7B case study.
