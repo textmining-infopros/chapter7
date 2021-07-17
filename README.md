@@ -7,6 +7,8 @@ Manika Lamba and Margam Madhusudhan (2021) Text Mining for Information Professio
 
 🔭 [Authors' Book Website](https://textmining-infopros.github.io/)
 
+📫 For corrections/suggestions reach me at lambamanika07@gmail.com or create an issue [here](https://github.com/textmining-infopros/chapter7/issues)
+
 # How to cite
 Please cite this compendium as: Lamba, Manika, & Madhusudhan, Margam. (2021). Sentiment Analysis of Documents using Two Different Tools (Version 1.0). http://doi.org/10.5281/zenodo.5090224
 
