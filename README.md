@@ -9,7 +9,7 @@ Manika Lamba and Margam Madhusudhan (2021) Text Mining for Information Professio
 
 📫 For corrections/suggestions reach me at lambamanika07@gmail.com or create an issue [here](https://github.com/textmining-infopros/chapter7/issues)
 
-# How to cite
+# How to Cite
 Please cite this compendium as: Lamba, Manika, & Madhusudhan, Margam. (2021). Sentiment Analysis of Documents using Two Different Tools (Version 1.0). http://doi.org/10.5281/zenodo.5090224
 
 # Contents
@@ -23,7 +23,7 @@ The compendium contains the data, code, and notebook associated with the case st
   - The `sentiment_analysis.R` file contatins the R code for 7B case study.
   - The `Case_Study_7B.ipynb` file contatins the Jupyter notebook for 7B case study.
 
-# How to download or install
+# How to Download or Install
 There are several ways to use the compendium’s contents and reproduce
 the analysis:
 
