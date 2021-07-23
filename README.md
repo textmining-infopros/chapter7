@@ -15,7 +15,7 @@ Manika Lamba and Margam Madhusudhan (2021) Text Mining for Information Professio
 Please cite this compendium as: Lamba, Manika, & Madhusudhan, Margam. (2021). Sentiment Analysis of Documents using Two Different Tools (Version 1.0). http://doi.org/10.5281/zenodo.5090224
 
 # Contents
-The compendium contains the data, code, and notebook associated with the case study. This case study is further divided into 7A, and 7B. 7A case study used RapidMiner, and 7B case study used R programming language to perform sentiment analysis. It is organized as follows:
+The compendium contains the data, code, and notebook associated with the case studies. It is divided into 7A, and 7B. 7A case study used RapidMiner, and 7B case study used R programming language to perform sentiment analysis. It is organized as follows:
 
   - The `7a_processed_dataset.rar` contains the processed data for 7A case study.
   - The `7b_dataset.csv` file contains the data for 7B case study.
@@ -41,8 +41,7 @@ the analysis:
     BinderHub on [mybinder.org](https://mybinder.org/):
     
       - Click
-        **RStudio**: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/textmining-infopros/chapter7/master?urlpath=rstudio)
-        to launch an interactive [RStudio](https://rstudio.com/) session in your web browser.
+        **RStudio**: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/textmining-infopros/chapter7/master?urlpath=rstudio) to launch an interactive [RStudio](https://rstudio.com/) session in your web browser for hands-on practice for 6B case study. In the virtual environment, open the `sentiment_analysis.R` file to run the code.
         
        - Click
         **Jupyter+R**: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/textmining-infopros/chapter7/master?filepath=Case_Study_7B.ipynb) to launch an interactive [Jupyter Notebook](https://jupyter.org/) session in your web browser using [R](https://cloud.r-project.org/index.html) kernel. When you execute code within the notebook, the results appear beneath the code.
