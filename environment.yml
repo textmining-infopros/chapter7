@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+dependencies:
+  - r-base>=4
+  - r-irkernel>=1.1
+  - r-syuzhet
+  - r-tm
+  - r-twitteR
+  - r-NLP
