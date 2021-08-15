@@ -12,7 +12,7 @@ Manika Lamba and Margam Madhusudhan (2021) Text Mining for Information Professio
 📫 For corrections/suggestions reach me at lambamanika07@gmail.com or create an issue [here](https://github.com/textmining-infopros/chapter7/issues)
 
 # How to Cite
-Please cite this compendium as: Lamba, Manika, & Madhusudhan, Margam. (2021). Sentiment Analysis of Documents using Two Different Tools (Version 1.0). http://doi.org/10.5281/zenodo.5090224
+Please cite this compendium as: **Lamba, Manika, & Madhusudhan, Margam. (2021). Sentiment Analysis of Documents using Two Different Tools (Version 1.0). http://doi.org/10.5281/zenodo.5090224**
 
 # Contents
 The compendium contains the data, code, and notebook associated with the case studies. It is divided into 7A, and 7B. 7A case study used RapidMiner, and 7B case study used R programming language to perform sentiment analysis. It is organized as follows:
