@@ -53,4 +53,4 @@ the analysis:
 
 # Licenses
 
-**Code**, **Data**: MIT License
+**Figures**, **Code**, **Data**, **Hex-sticker:** MIT License
